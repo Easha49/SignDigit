@@ -3,9 +3,16 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidStudioProject/SignDigitRecognition/app/src/main/res/drawable/input_box.xml" value="0.1395" />
         <entry key="..\:/AndroidStudioProject/SignDigitRecognition/app/src/main/res/layout/activity_login.xml" value="0.2359375" />
         <entry key="..\:/AndroidStudioProject/SignDigitRecognition/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProject/SignDigitRecognition/app/src/main/res/layout/activity_model.xml" value="0.2359375" />
+        <entry key="..\:/AndroidStudioProject/SignDigitRecognition/app/src/main/res/layout/activity_profile.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProject/SignDigitRecognition/app/src/main/res/layout/activity_sign_up.xml" value="0.19021739130434784" />
         <entry key="..\:/AndroidStudioProject/SignDigitRecognition/app/src/main/res/layout/activity_splash.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProject/SignDigitRecognition/app/src/main/res/layout/activity_youtube.xml" value="0.24444444444444444" />
+        <entry key="..\:/AndroidStudioProject/SignDigitRecognition/app/src/main/res/layout/spinner_layout.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProject/SignDigitRecognition/app/src/main/res/menu/menu_layout.xml" value="0.25" />
       </map>
     </option>
   </component>
